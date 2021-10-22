@@ -1,8 +1,5 @@
 ### Welcome to my profile 👋
 
-<!--
-**Kyronne/Kyronne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Passionate about devops and interested in the role crypto can play in creating a more equitable world.
 
 My tech stack: Python, Javascript, SQL, Azure, GIT(😲) & Linux.
