@@ -1,4 +1,4 @@
-### Welcome to my profile 👋
+### Welcome! 👋
 
 Passionate about devops and interested in the role crypto can play in creating a more equitable world.
 
