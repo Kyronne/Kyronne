@@ -2,7 +2,7 @@
 
 Passionate about devops and interested in the role crypto can play in creating a more equitable world.
 
-My tech stack: Python, Javascript, HTML, SQL, Azure, GIT😲 & Linux(Ubuntu, Centos).
+My tech stack: Python, Javascript, HTML, SQL, Azure, Jenkins, GIT😲 & Linux(Ubuntu, Centos).
 
 - 🔭 I’m currently using my Data Analysis Skills(SQL) to solve bounties on Flipside Crypto.
 - 🌱 Learning typescript and rust through the Near Protocol Developers programme.
