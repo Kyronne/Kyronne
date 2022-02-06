@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Passionate about devops and interested in the role crypto can play in creating a more equitable world.
+Passionate about devops and interested in the role Web3 can play in creating a more equitable world.
 
 My tech stack: Python, Javascript, HTML, SQL, Azure, Jenkins, Docker, GIT😲 & Linux(Ubuntu, Centos).
 
