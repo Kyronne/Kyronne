@@ -11,6 +11,6 @@ My tech stack: Python, Javascript, HTML, SQL, Azure, Jenkins, Docker, GIT😲 & 
 - 🧭 Aspiring to get involved with Hackathons.
 - ⚡ Fun fact: I write poetry/spoken word and have performed in Brazil.
 
-<img alt="Dark Badge (large)" class="hidden dark:block" src="/users/Kyronne/badges/large">
+https://www.codewars.com/users/Kyronne/badges/large
 
 ![Kyronne's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kyronne&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6) ![Kyronne's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyronne&count_private=true&layout=compact&hide_border=false&theme=darcula&bg_color=00000000)
