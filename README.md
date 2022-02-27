@@ -21,7 +21,7 @@ My tech stack: Python, Javascript, HTML, SQL, Azure, Jenkins, Docker, GIT😲 & 
     <path fill="#141414" d="M62.237 31.45L68.61 20 62.237 8.55H16.41L10.037 20l6.373 11.45z"/>
     <text fill="#E6E6E6" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" x="32" y="18.77" text-anchor="middle" transform="translate(7 6)">7 kyu</text>
     <path fill="#E6E6E6" d="M15.083 34L7 20l8.083-14H63.58l8.083 14-8.083 14H15.083zm46.614-3.233L67.919 20 61.697 9.233H16.95L10.728 20l6.222 10.767h44.747z"/>
-  </svg>
+  </svg>                https://www.codewars.com/users/Kyronne/
 
 
 ![Kyronne's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kyronne&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6) ![Kyronne's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyronne&count_private=true&layout=compact&hide_border=false&theme=darcula&bg_color=00000000)
