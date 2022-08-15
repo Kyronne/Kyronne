@@ -2,10 +2,10 @@
 
 Passionate about devops and interested in the role Web3 can play in creating a more equitable world.
 
-My tech stack: Python, Javascript, HTML, SQL, Azure, Jenkins, Docker, GIT😲 & Linux(Ubuntu, Centos).
+My tech stack: Python, Javascript, SQL, Azure, GIT😲 & Linux.
 
-- 🔭 I’m currently using my Data Analysis Skills(SQL) to solve bounties on Flipside Crypto.
-- 🌱 Learning typescript and rust through the Near Protocol Developers programme.
+- 🔭 I’m currently working in Data Analysis primarely using(SQL).
+- 🌱 Learning math and training on codewars. 
 - 📫 Check out my certifications on LinkedIn : https://www.linkedin.com/in/kyronne/
 - 😄 Pronouns: He
 - 🧭 Aspiring to get involved with Hackathons.
