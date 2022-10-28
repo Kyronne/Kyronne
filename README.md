@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Passionate about devops and interested in the role Web3 can play in creating a more equitable world.
+Passionate about developement and interested in the role Web3 can play in creating a more equitable world.
 
 My tech stack: Python, Javascript, SQL, Azure, GIT😲 & Linux.
 
