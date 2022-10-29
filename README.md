@@ -4,7 +4,7 @@ Passionate about developement and interested in the role Web3 can play in creati
 
 My tech stack: Python, Javascript, SQL, Azure, GIT😲 & Linux.
 
-- 🔭 I’m currently working in Data Analysis primarely using(SQL).
+- 🔭 I’m currently working in Data Visualisation primarely using(SQL).
 - 🌱 Learning math and training on codewars. 
 - 📫 Check out my certifications on LinkedIn : https://www.linkedin.com/in/kyronne/
 - 😄 Pronouns: He
