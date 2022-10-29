@@ -2,7 +2,7 @@
 
 Passionate about development and interested in the role Web3 can play in creating a more equitable world.
 
-My tech stack: Python, Javascript, SQL, Azure, GIT😲 & Linux.
+My tech stack: Javascript, React, Python, SQL, Azure, GIT😲 & Linux.
 
 - 🔭 I’m currently working in Data Visualisation primarely using(SQL).
 - 🌱 Learning math and training on codewars. 
