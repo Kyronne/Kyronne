@@ -12,5 +12,5 @@ My tech stack: Javascript, Typescript, React, TailwindCSS, Python, SQL, Azure, G
 - ⚡ Fun fact: I write poetry/spoken word and have performed in Brazil.
 
 
-
-![Kyronne's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kyronne&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6) ![Kyronne's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyronne&count_private=true&layout=compact&hide_border=false&theme=darcula&bg_color=00000000)
+![Kyronne's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyronne&count_private=true&layout=compact&hide_border=false&theme=darcula&bg_color=00000000)
+![Kyronne's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kyronne&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6)
