@@ -2,7 +2,7 @@
 
 Passionate about development(software & community development) & interested in the role Web3 can play in creating a more equitable world.
 
-My tech stack: Javascript, Typescript, React, Next.js TailwindCSS, Python, SQL, Azure, GIT😲 & Linux.
+My tech stack: Javascript, Typescript, React, Next.js, TailwindCSS, Python, SQL, Azure, GIT😲 & Linux.
 
 - 🔭 I’m currently working in Data Visualisation primarily using SQL.
 - 🌱 Training on codewars. 
