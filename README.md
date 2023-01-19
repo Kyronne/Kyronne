@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Passionate about both software & community development & interested in Web3.
+Passionate about software development, community development & interested in Web3.
 
 My tech stack: Javascript, Typescript, React, Next.js, TailwindCSS, Python, SQL, Azure, GIT😲 & Linux.
 
