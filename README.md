@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Passionate about development(software & community development) & interested in the role Web3 can play in creating a more equitable world.
+Passionate about both software & community development & interested in Web3.
 
 My tech stack: Javascript, Typescript, React, Next.js, TailwindCSS, Python, SQL, Azure, GIT😲 & Linux.
 
