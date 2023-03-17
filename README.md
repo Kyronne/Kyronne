@@ -2,7 +2,7 @@
 
 Passionate about software development, community development & interested in Web3.
 
-My tech stack: Javascript, Typescript, React, Next.js, Three.js,react-three-fibre, TailwindCSS, Python, SQL, Azure, GIT😲 & Linux.
+My tech stack: Javascript, Typescript, React, Next.js, Three.js, react-three-fibre, Solidity, TailwindCSS, SQL, Azure, GIT😲 & Linux.
 
 - 🔭 I’m currently working in Data Visualisation primarily using SQL.
 - 🌱 Training on codewars. 
