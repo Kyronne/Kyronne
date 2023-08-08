@@ -2,10 +2,10 @@
 
 Passionate about software development, community development & interested in Web3.
 
-My tech stack: Javascript, Typescript, React, Next.js, Three.js, react-three-fibre, Solidity, TailwindCSS, SQL, Azure, GIT😲 & Linux.
+My tech stack: Javascript, Python, Terraform, Typescript, React, Next.js, Three.js, react-three-fibre, Solidity, TailwindCSS, SQL, Azure, GIT😲 & Linux.
 
 - 🔭 I’m currently working in Data Visualisation primarily using SQL.
-- 🌱 Training on codewars and learning React Native.
+- 🌱 Training on codewars and learning Devops.
 - 📫 Check out my certifications on LinkedIn : https://www.linkedin.com/in/kyronne/
 - 😄 Pronouns: He
 - 🧭 Aspiring to get involved with Hackathons.
